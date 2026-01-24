@@ -1,7 +1,7 @@
 # 🌍 Global Internet Connectivity ETL Pipeline
 # Big Data Project
 
-## 📌 Project Overview
+##  Project Overview
 This project designs and implements a scalable, resilient **ETL (Extract, Transform, Load) data pipeline** that processes large-scale global internet performance data and prepares it for advanced analytics and business intelligence reporting.
 
 Using **Apache PySpark** for distributed processing, **DuckDB** for high-performance analytical querying, and **Prefect** for workflow orchestration, the pipeline integrates heterogeneous data sources to generate actionable insights into the global **Digital Divide**.
